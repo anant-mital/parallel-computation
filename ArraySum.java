@@ -1,5 +1,3 @@
-package fi.tuni;
-
 import java.time.LocalDateTime;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
